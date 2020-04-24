@@ -13,4 +13,3 @@ setImmediate(() => {
 
 console.log(__filename);
 
-globalThis.miVariable = 'valor';
