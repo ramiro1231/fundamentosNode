@@ -1,0 +1,8 @@
+Soy 
+un 
+archivo
+que 
+es 
+de 
+prueba
+stream
